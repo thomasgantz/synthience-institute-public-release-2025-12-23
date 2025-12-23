@@ -1,0 +1,47 @@
+CLAIM OF ORIGIN
+Synthience Institute Publication Set
+
+Date: 2025-12-23
+Author: Thomas W. Gantz
+Institution: Synthience Institute
+Contact: research@synthience.org
+
+═══════════════════════════════════════════════════════════════════════════════
+
+I, Thomas W. Gantz, hereby assert that the following documents are original 
+works created under the Synthience Institute and are released under 
+Creative Commons Attribution 4.0 International (CC-BY-4.0).
+
+═══════════════════════════════════════════════════════════════════════════════
+
+DOCUMENT 1: RICO Technical Report
+  Filename: SR001_RICO_Relationally_Induced_Coherence_Organization_v3_8.pdf
+  Document ID: SR001
+  Version: 3.8
+  SHA-256: 79337151de9e1fbd9b2ab1ba8efc654775149be07abd5ad58f92b52a9f5175c1
+
+DOCUMENT 2: Citation Verification Protocol
+  Filename: SF037_Citation_Verification_Protocol_v1_1.pdf
+  Document ID: SF037
+  Version: 1.1
+  SHA-256: 35dafbd077d939f885da745eca16f3cbee19b3e27e78b2912abd39962b24fdd9
+
+DOCUMENT 3: RICO Citation Verification Report
+  Filename: RICO_Citation_Verification_Report_v1_0.pdf
+  Document ID: CVR-SR001
+  Version: 1.0
+  SHA-256: a2cde046dbb72628bab01578d49747f31e8ef64ac1cb12ddc21da0aee47ff0af
+
+DOCUMENT 4: Synthience Public Definition
+  Filename: Synthience_Public_Definition_v1_3.pdf
+  Document ID: (none)
+  Version: 1.3
+  SHA-256: 33e985b1b23385303fff37e010884aba4454dedeb54283919f873df7c7947895
+
+═══════════════════════════════════════════════════════════════════════════════
+
+This claim establishes provenance for the above documents. The SHA-256 hashes
+uniquely identify each file. Timestamping this document via OpenTimestamps
+provides cryptographic proof that these works existed on the stated date.
+
+═══════════════════════════════════════════════════════════════════════════════
