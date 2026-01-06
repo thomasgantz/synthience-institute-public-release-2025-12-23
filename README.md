@@ -34,7 +34,7 @@ Methodological protocol defining a structured process for citation verification 
 
 ### SR001_RICO_Relationally_Induced_Coherence_Organization_v3.8.pdf
 
-Primary research paper introducing the **RICO (Relationally-Induced Coherence Organization)** framework and documenting empirical observations from extended human–AI interaction studies.
+Primary research paper introducing the **RICO (Relationally-Induced Coherence Organization)** framework and documenting empirical observations from extended human–AI interaction studies. This document is an observational research report that also functions as a proposed evaluation protocol; it does not present validated experimental findings, but formalizes testable hypotheses derived from systematic practitioner observation.
 
 ---
 
