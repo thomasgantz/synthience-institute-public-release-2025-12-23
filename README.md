@@ -14,7 +14,6 @@ This repository constitutes the canonical public release record for finalized re
 
 All documents contained here are fixed artifacts corresponding to that release date.
 
-This release does **not** include Synthience Framework v1.1, which remains under development and will be released separately.
 
 ---
 
